@@ -1,0 +1,22 @@
+
+@import "./navbar.css";
+@import "./wrapper.css";
+@import "./main-content.css";
+@import "./planets.css";
+@import "./footer.css";
+@import "./hamburguesa.css";
+
+
+:root {
+    --black: #202020;
+    --white: #ffffff;
+    --violet: #2A2F4F;
+    --font: system-ui;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #917FB3;
+    font-family: var(--font);
+}
